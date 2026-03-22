@@ -130,3 +130,21 @@ ul {
 .footer-text {
     color: #f4f4fd;
 }
+.menu-link {
+    font-size: 16px;
+}
+
+.contacts-link {
+    font-size: 16px;
+}
+
+.hero-btn {
+    font-size: 16px;
+}
+
+.features-text,
+.team-text,
+.portfolio-text,
+.footer-text {
+    font-size: 16px;
+}
